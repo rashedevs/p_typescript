@@ -1,6 +1,5 @@
 // number, string, boolean, void, undefined, null
 
-
 let random;  // this is any type which is super.
 let userId: number;
 let firstName: string;
